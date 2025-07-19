@@ -1,0 +1,8 @@
+print("こんにちは、世(セ)界(カイ)!")
+#This says "Hello, world!" in Japanese.
+
+#Some functions, for your viewing pleasure.
+x = complex(10)
+y = complex(20j)
+while True():
+    (x + y)
